@@ -63,7 +63,7 @@ new TypeIt("#type1", {
   .type("Designer", { delay: 400 })
   .pause(500)
   .delete(9)
-  .type("Developer", { delay: 400 })
+  .type("Developpeuse", { delay: 400 })
   .pause(500)
   .delete(9)
   .go();
@@ -76,7 +76,7 @@ new TypeIt("#type2", {
   .type("Designer", { delay: 400 })
   .pause(500)
   .delete(9)
-  .type("Developer", { delay: 400 })
+  .type("Developpeuse", { delay: 400 })
   .pause(500)
   .delete(9)
   .go();
